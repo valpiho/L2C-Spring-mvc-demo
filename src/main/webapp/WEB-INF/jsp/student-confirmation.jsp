@@ -4,7 +4,7 @@
 </head>
 <body>
 
-Hello there ${student.firstName} ${student.lastName}
+Hello there ${student.firstName} ${student.lastName} from ${student.country}
 
 </body>
 </html>
